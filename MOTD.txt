@@ -1,1 +1,9 @@
-helo
+WARNING. THIS IS A BETA TEST. EXPECT BUGS
+
+new horror update
+-no jumpscares yet
+-make sure you press the button at the gamemodes stand
+-still very early in development. stuff is not finsihed
+
+thanks!
+-poime
